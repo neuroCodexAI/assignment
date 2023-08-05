@@ -1,0 +1,9 @@
+Artificial Intelligence (AI), Machine Learning (ML), and Data Science are three different fields that are related to each other. AI is a broad field that involves creating machines that can perform tasks that would normally require human intelligence. Machine learning is a subset of AI that involves training machines to learn from data and make predictions or decisions based on that data. Data science is the process of extracting insights from data using statistical and computational methods¹²³.
+
+I hope this helps. Do you have any other questions?
+
+Source: Conversation with Bing, 6/8/2023
+(1) Data Science vs. Machine Learning: What’s the Difference?. https://www.coursera.org/articles/data-science-vs-machine-learning.
+(2) Data Science vs Machine Learning vs Artificial Intelligence. https://www.mygreatlearning.com/blog/difference-data-science-machine-learning-ai/.
+(3) AI, ML or Data Science? Which is the Best Path to Take? - Analytics Insight. https://www.analyticsinsight.net/ai-ml-or-data-science-which-is-the-best-path-to-take/.
+(4) What is Machine Learning? | IBM. https://www.ibm.com/topics/machine-learning.
